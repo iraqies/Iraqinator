@@ -124,20 +124,19 @@
     },
     {
       "id": 6,
-      "name": "Potion of Healing",
+      "name": "Potion",
       "type": "item",
       "isFood": false,
       "isTool": false,
       "isBlock": false,
       "isSolid": false,
-      "codename": "potion-healing",
+      "codename": "potion",
       "isEdible": true,
       "isWeapon": false,
-      "dimension": "overworld",
+      "dimension": "any",
       "relatedTo": [
         "potion",
         "effect",
-        "health",
         "magic",
         "brewing"
       ],
